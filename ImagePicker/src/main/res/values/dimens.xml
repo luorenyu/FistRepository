@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!--顶部导航栏的高度  -->
+    <dimen name="topbar_height">50dp</dimen>
+    
+    <!-- 应用边距尺寸 -->
+    <!-- 30 ~ 32px  -->
+	<dimen name="big_space">18dp</dimen>
+	<dimen name="middle_space">14dp</dimen>
+	<dimen name="small_space">8dp</dimen>
+	<dimen name="tiny_space">4dp</dimen>
+	
+	<!-- 顶部导航栏标题字体大小  -->
+	<dimen name="topbar_textSize">20sp</dimen>
+	<!-- 顶部导航栏标题字体大小  -->
+	<dimen name="topbar_right_textSize">18sp</dimen>
+	
+</resources>

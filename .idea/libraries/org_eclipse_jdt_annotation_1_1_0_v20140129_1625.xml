@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jdt.annotation_1.1.0.v20140129-1625">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ImagePicker/libs/org.eclipse.jdt.annotation_1.1.0.v20140129-1625.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
